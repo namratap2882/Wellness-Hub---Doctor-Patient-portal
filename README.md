@@ -1,4 +1,4 @@
-# Doctor-Patient-Portal : Advance Java WebProject
+# WELLNES HUB : Doctor-Patient-Portal
 Doctor Patient Portal is an Advance Java Web Project. 
 
 # Technology used in this project: 
